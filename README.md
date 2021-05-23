@@ -4,4 +4,4 @@
 +I hope to in the future update this project with HTML and CSS to give visuals and useablity to anyone who will encounter it.
 +But for now I leave it at this! Hope you enjoy!
 
-#### to use just un program in node and enjoy!
+#### to use just run program in node and enjoy!
